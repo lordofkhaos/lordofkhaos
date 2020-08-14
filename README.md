@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I appreciate the interest in my work. 
+
+Currently, I am working on developing a cross-platform communications app that will be better than anything out there!
+
 <!--
 **lordofkhaos/lordofkhaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
